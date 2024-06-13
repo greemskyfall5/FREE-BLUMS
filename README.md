@@ -25,6 +25,7 @@
 </div>
 
 - Auto tuning
+- Unlimited referrals
 - Auto clicker for many accounts
 - Multi-threading
 - Convenient menu
